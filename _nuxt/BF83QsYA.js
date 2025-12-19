@@ -1,0 +1,1 @@
+import{e as n,o,j as c,g as r}from"./C8HeO312.js";const a={class:"wrapper -small -padded"},p=["innerHTML"],_={__name:"List",props:{content:{type:Object,required:!0}},setup(e){const t=e,{text:s}=t.content;return(i,l)=>(o(),n("div",a,[c("div",{class:"text text-in-block",innerHTML:r(s)},null,8,p)]))}};export{_ as default};

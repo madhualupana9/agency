@@ -1,0 +1,1 @@
+function t(e){return{query:`page("${e}")`,select:{id:!0,title:!0,seo_title:!0,seo_description:!0,display_title:!0,intendedTemplate:!0,disabled:!0,introduction:{query:"page.introduction.nl2br"},blocks:"page.content.content_blocks.toBlocks",bullet_points:!0,baseline:{query:"page.baseline.nl2br"},cover:{query:"page.cover.toFile"}}}}export{t as g};

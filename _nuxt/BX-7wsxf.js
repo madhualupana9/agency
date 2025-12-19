@@ -1,0 +1,1 @@
+import{e as t,o,j as r}from"./C8HeO312.js";const n={width:"12",height:"15",viewBox:"0 0 12 15",fill:"none",xmlns:"http://www.w3.org/2000/svg"};function l(s,e){return o(),t("svg",n,e[0]||(e[0]=[r("path",{d:"M12 7.50009L8.48065e-07 15L0 0L12 7.50009Z",fill:"currentColor"},null,-1)]))}const i={render:l};export{i as default,l as render};
